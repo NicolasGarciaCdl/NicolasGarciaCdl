@@ -14,7 +14,7 @@ Class User
   public function __construct(){
     $born = new DateTimeImmutable('1979-01-12');
     $today = new Datetime();
-    $interval = $born->diff($today)->format('%Y ans');
+    $interval = $born->diff($today)->format('%Y');
     $this->age = $interval;
   }
 }
