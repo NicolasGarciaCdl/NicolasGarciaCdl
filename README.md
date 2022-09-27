@@ -1,10 +1,12 @@
 ## Hi there 👋 
 ### Welcome to my GitHub profile!
 
+Hello, i'm Nicolas, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Gujan Mestras, France</b>. 
+
 **About Me**
 ```php
 <?php
-namespace gitHub\profile
+namespace Github\Profile
 
 Class User
 {
@@ -22,7 +24,10 @@ Class User
   }
 }
 ```
-Hello, i'm Nicolas Fullstack Web Developer. 
+
+
+
+
 ## Most use technologies and tools : 
 
 ### Back-End
