@@ -7,9 +7,9 @@ namespace gitHub\profile
 
 Class User
 {
-  public const string FIRSTNAME = 'Nicolas';
-  public const string LASTNAME = 'Garcia';
-  public int $age;
+  const FIRSTNAME = 'Nicolas';
+  const LASTNAME = 'Garcia';
+  public string $age;
   
   public function __construct(){
     $born = new DateTimeImmutable('1979-01-12');
