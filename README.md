@@ -1,6 +1,7 @@
 ## Hi there 👋 
 ### Welcome to my GitHub profile!
 
+**About Me**
 ```php
 <?php
 namespace gitHub\profile
@@ -19,6 +20,9 @@ Class User
   }
 }
 ```
+
+##Techno
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 [![Les Stats GitHub de Nicolas](https://github-readme-stats.vercel.app/api?username=NicolasGarciaCdl)](https://github.com/nicolasgarciacdl/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgarciacdl)](https://github.com/nicolasgarciacdl/github-readme-stats)
