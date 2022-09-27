@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### Welcome to my GitHub profile!
+### Welcome to my GitHub page!
 
 Hello, i'm Nicolas, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Gujan Mestras, France</b>. 
 
